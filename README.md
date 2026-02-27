@@ -1,4 +1,4 @@
-Welcome to my GitHub! I am Sauro, a student in training in analysis and development of information systems. I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter @saurocode
+Welcome to my GitHub! I am Sarley, a student in training in analysis and development of information systems. I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter @saurocode
 
 ### ✔️ I'm currently learning
 - Python
